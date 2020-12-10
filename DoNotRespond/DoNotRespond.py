@@ -94,8 +94,8 @@ def doDetection(detectionFunction):
 
 
 if __name__ == "__main__":
-    strStart = ("This Script Was Created By Abir Nadav Have fun Fuggin Hackers\n\
-    Version: 1.0    \
+    strStart = ("This Script Was Created By Abir Nadav Have fun Fuggin Hackers\n\n\
+Version: 1.1    \
 ______________________________________________________________________________________________________________\n\n")
     print(strStart)
     while True:
@@ -105,8 +105,8 @@ ________________________________________________________________________________
                 activeResponderIp, args.staysilent))
             num = 0
             while True:
-                sendSMBConnection(activeResponderIp, '\e[5mYOU HAVE BEEN HACKED!',
-                                  '\e[5mlol123', colors[num] + '------------------------> YOU HAVE BEEN HACKED! <----------------')
+                sendSMBConnection(activeResponderIp, '\r\r\e[5mYOU HAVE BEEN HACKED!',
+                                  '\r\r\e[5mlol123', colors[num] + '\r\r\r------------------------> YOU HAVE BEEN HACKED! <----------------\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n------------------------> YOU HAVE BEEN HACKED! <----------------------------------------> YOU HAVE BEEN HACKED! <----------------------------------------> YOU HAVE BEEN HACKED! <----------------\n\n\n\n\n\n\n\n\n\n\n\n')
                 num += 1
                 if num > 3:
                     num = 0

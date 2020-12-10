@@ -2,8 +2,8 @@
 
 **Explanation:**
 
-Detect a LLMNR Responder over LAN and Send Spoof Request to scare him :)\n
-And Interfere with hes Terminal.
+Detect a LLMNR Responder over LAN and Send Spoof Request to Interfere with hes Terminal and scare him :)
+
 
 
 **Download:**
